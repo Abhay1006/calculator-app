@@ -26,7 +26,7 @@ function App() {
     }
     function resetInput(e) {
       e.preventDefault();
-      setResult(0);
+      inputRef.current.value = 0;
     }
     function resetResult(e){
       e.preventDefault();
