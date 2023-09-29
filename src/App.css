@@ -13,7 +13,7 @@ input {
 }
 button {
   border: 1px solid gray;
-  background: whitesmoke;
+  background: white;
   margin-right: 5px;
 }
 button:nth-last-child(2),
